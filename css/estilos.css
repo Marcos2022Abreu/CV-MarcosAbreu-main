@@ -2,6 +2,16 @@
 /*----------------------------------------
 SOBREESCRIBIENDO  LOS ESTILOS DE BOOTSTRAP
 ------------------------------------------*/
+a{
+  text-decoration: none;
+  color: #44484a;
+}
+
+a:hover{
+  text-decoration: none;
+  color: #002629;
+}
+
 .bg-primary {
   background-color: #c2b2b4 !important;
 }
